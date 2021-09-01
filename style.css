@@ -1,0 +1,16 @@
+body    {
+        width: 960px;
+        margin: 0px auto;
+}
+div.c1	{
+	margin-top: 20px;
+}	
+a:hover, a:active {
+  background-color: #044E29;
+  color: white;
+}*/
+@media screen and (max-width:959px){
+body {
+        width:90%;
+        margin:0px auto;
+}
